@@ -1,4 +1,3 @@
-
 class X{
 	static int a=10;
 	String b;

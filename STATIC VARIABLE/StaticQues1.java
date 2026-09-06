@@ -1,4 +1,3 @@
-
 class A{
 	int x=10;
 	static String y="Ram";
